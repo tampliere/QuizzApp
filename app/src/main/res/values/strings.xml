@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quizz App</string>
+    <string name="quizz_name">Yellowstone</string>
+    <string name="Q1">What is Yellowstone?</string>
+    <string name="Q1A1">Geyser</string>
+    <string name="Q1A2">Supervolcano</string>
+    <string name="Q1A3">Mountain</string>
+    <string name="Q2">Where is Yellowstone National Park? (choose three)</string>
+    <string name="Q2A1">Wyoming</string>
+    <string name="Q2A2">Idaho</string>
+    <string name="Q2A3">Utah</string>
+    <string name="Q2A4">Colorado</string>
+    <string name="Q2A5">Montana</string>
+    <string name="Q3">How many earthquakes are there in Yellowstone National Park per year?</string>
+    <string name="Q3A1">   0- 100</string>
+    <string name="Q3A2"> 100- 500</string>
+    <string name="Q3A3"> 500-1000</string>
+    <string name="Q3A4">1000-3000</string>
+    <string name="Q3A5">3000-5000</string>
+    <string name="Q4">How does one call a National Park employee?</string>
+    <string name="button1">Calculate result</string>
+    <string name="button2">Repeat quizz</string>
+    <string name="too_many_clicks">Stop clicking :) Repeat quizz</string>
+    <string name="toast_start">You got correct***</string>
+    <string name="toast_end">*** out of 4 !</string>
+</resources>
